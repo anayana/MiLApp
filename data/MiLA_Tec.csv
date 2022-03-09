@@ -1,0 +1,8 @@
+Ausbringungstechnik;Düngerausbringungsart;;NH3-Ausgasung;fest;flüssig 
+Streuen;Broadcast;1;-1,305;1;1
+Eingearbeitet (max. 1 h);Incorporate;2;-1,895;0,2;0,2
+Gülleschlitz;;3;-1,292;0,4;0,2
+In Lösung mit PSM-Spritze;Fertilizer applied in solution;4;-1,292;1;1
+Schleppschlauch (unbewachsen);;5;-1,292;0,92;0,7
+Schleppschlauch (mit Bewuchs);;6;-1,292;0,7;0,5
+Schleppschuh;;7;-1,292;0,7;0,4
