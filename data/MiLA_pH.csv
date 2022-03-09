@@ -1,5 +1,0 @@
-pH-Wert;Mean;N2O-pH-Wert-Faktor;NO-pH-Wert-Faktor;Nh3-pH-Wert-Faktor
-pH <= 5.5;5;0;0;-1,072
-5.5 < pH <= 7.3;6,4;-0,0693;0;-0,933
-7.3 < pH <= 8.5;7,9;-0,4836;0;-0,608
-pH > 8.5;9;-0,4836;0;-0,608
