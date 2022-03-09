@@ -1,6 +1,6 @@
 ID_Frucht;Fruchtart
 102;Amarant
-250;BlÃ¼hmischung
+250;Blühmischung
 195;Bokharaklee
 208;Buchweizen
 245;Deutsches Weidelgras, Welsches Weidelgras
@@ -21,7 +21,7 @@ ID_Frucht;Fruchtart
 141;Mais
 220;Mais, Sudangras
 142;Mais/Sonnenblume
-41;Ã–lrettich
+41;Ölrettich
 25;Phacelia
 185;Rotklee
 145;S.Gerste
@@ -37,7 +37,7 @@ ID_Frucht;Fruchtart
 163;W. Erbse, W. Roggen
 233;W. Triticale, W. Erbse
 164;W.Gerste
-167;W.Gerste, W.RÃ¼bsen
+167;W.Gerste, W.Rübsen
 169;W.Gerste, W.Triticale, W.Weizen
 170;W.Raps
 172;W.Roggen
@@ -49,7 +49,7 @@ ID_Frucht;Fruchtart
 176;W.Weizen
 177;W.Wicke
 179;Welsches Weidelgras
-181;ZuckerrÃ¼ben
+181;Zuckerrüben
 ;
 ;
 ;
