@@ -1,5 +1,0 @@
-SOC ;Mittelwert;Nr;N2O-SOC-Faktor;NO-SOC-Faktor;NH3-SOC-Faktor
-SOC<= 1;1;1;0;0;0
-1<SOC<=3;2;2;0,0526;0;0
-3<SOC<=6;4;3;0,6334;0;0
-6>SOC;6;4;0,6334;0;0
