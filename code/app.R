@@ -1,10 +1,3 @@
-#library(rsconnect)
-#rsconnect::setAccountInfo(name='anayana',
-#                          token='D73FB341C4BEBA61E4D58E1006E9DF69',
-#                          secret='IL+3D1S2qXIGHbEnZkcUn2nWotcz+jKw7VMza9Vu')
-#rsconnect::deployApp('C:/Users/angel.naya-geiger/Desktop/2021js_Optaklim_Mila/MiLApp/')
-
-
 
 library(shiny)
 #library(tidyverse)
